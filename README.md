@@ -1,4 +1,4 @@
-# Python Fundamentals - Learning Repository
+# Python Fundamentals - Learning Repository <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" alt="Python Logo" width="200" align="right">
 
 A comprehensive collection of Jupyter notebooks and Python scripts covering fundamental programming concepts. This repository serves as a structured learning path for Python beginners and intermediate learners.
 
@@ -20,6 +20,8 @@ A comprehensive collection of Jupyter notebooks and Python scripts covering fund
 - **[9. Function Examples](./9%20functions%20examples.ipynb)** - Practical function implementations and use cases
 - **[10. Lambda Functions](./10%20Lambda%20Function.ipynb)** - Anonymous functions and functional programming
 - **[11. MAP Function](./11%20MAP%20function.ipynb)** - Higher-order functions and data transformation
+- **[12. Filter Function](./12%20filter%20function.ipynb)** - Filtering data with functional programming
+- **[13. Import Modules and Packages](./13%20import%20modules%20and%20packages.ipynb)** - Code organization and module importing
 
 ## 🚀 Getting Started
 
@@ -65,7 +67,7 @@ For optimal learning experience, follow this recommended sequence:
 3. **Control Flow** → [Conditional Statements](./3.0-ConditionalStatements.ipynb)
 4. **Data Structures** → [Lists](./4-DS_List.ipynb) → [Sets](./5-Sets.ipynb) → [Dictionaries](./6.0%20Dictinaries.ipynb) → [Tuples](./7.0%20Tuple.ipynb)
 5. **Functions** → [Functions](./8%20Function.ipynb) → [Function Examples](./9%20functions%20examples.ipynb)
-6. **Advanced** → [Lambda Functions](./10%20Lambda%20Function.ipynb) → [MAP Function](./11%20MAP%20function.ipynb)
+6. **Advanced** → [Lambda Functions](./10%20Lambda%20Function.ipynb) → [MAP Function](./11%20MAP%20function.ipynb) → [Filter Function](./12%20filter%20function.ipynb) → [Import Modules](./13%20import%20modules%20and%20packages.ipynb)
 
 ## 🛠 Project Structure
 
@@ -82,6 +84,8 @@ python-fundamentals/
 ├── 9 functions examples.ipynb     # Practical examples
 ├── 10 Lambda Function.ipynb       # Anonymous functions
 ├── 11 MAP function.ipynb          # Higher-order functions
+├── 12 filter function.ipynb       # Filtering data
+├── 13 import modules and packages.ipynb # Module importing
 ├── main.py                        # Main Python script
 ├── sample.txt                     # Sample data file
 ├── pyproject.toml                 # Project configuration
@@ -97,6 +101,7 @@ By completing this course, you will:
 - ✅ Manipulate data using lists, sets, dictionaries, and tuples
 - ✅ Create and use functions effectively
 - ✅ Apply functional programming concepts with lambda and map functions
+- ✅ Organize code using modules and packages for better reusability
 
 ## 📋 Dependencies
 
@@ -128,3 +133,16 @@ This project is open source and available under the [MIT License](LICENSE).
 **Happy Learning! 🐍✨**
 
 > This repository is part of a comprehensive Python learning journey. Each notebook is designed to build upon previous concepts while introducing new programming paradigms.
+
+## 👨‍💻 Author
+
+**Abhishek Chandra**
+
+## 📚 References
+
+- **Krish Naik** - Educational content and tutorials
+- **MIT** - Academic resources and documentation
+- **ChatGPT** - AI assistance and code examples
+- **Codebase AI Models** - Development support
+- **HuggingFace** - Machine learning resources
+- **Books related to Python** - Various Python programming books
